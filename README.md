@@ -59,7 +59,9 @@ CLick on links to to to respective tab.
   
 	4.7. [Radix sort](./Algorithms/Sorts/Radix-sort/)
 
-
+	4.8. [Counting sort](./Algorithms/Sorts/Counting-sort/)
+ 
+ 
 ### [Data Structures](./Data-Structures)	
 
 1. [Graph](./Data-Structures/Graph/)	
